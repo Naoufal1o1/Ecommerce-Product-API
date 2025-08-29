@@ -1,1 +1,0 @@
-# products/serializers.py placeholder
